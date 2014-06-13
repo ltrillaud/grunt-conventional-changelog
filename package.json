@@ -27,7 +27,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "conventional-changelog": "0.0.6"
+    "conventional-changelog": "git+https://github.com/ltrillaud/conventional-changelog.git#0.0.11-lt"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
